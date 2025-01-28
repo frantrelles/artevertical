@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Nueva línea de productos",
+        "content": "Descubre nuestra nueva colección disponible ahora.",
+        "date": "2025-01-21"
+    },
+    {
+        "title": "Promoción especial",
+        "content": "Obtén un descuento del 20% en todas las compras este mes.",
+        "date": "2025-01-15"
+    },
+    {
+        "title": "Apertura de una nueva tienda",
+        "content": "¡Visítanos en nuestra nueva ubicación en Madrid!",
+        "date": "2025-01-10"
+    }
+]
